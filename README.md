@@ -22,8 +22,6 @@ Combino formación en Economía con experiencia práctica en Business Intelligen
 - 📊 [Dashboard Power BI](https://github.com/AdrianFP2001/dashboard-power-bi) — panel interactivo de KPIs de negocio
 - 📈 [Dashboard Looker Studio](https://github.com/AdrianFP2001/dashboard-looker-studio) — informe con datos públicos
 
-*(Los enlaces se activarán según vaya subiendo cada proyecto este verano)*
-
 ## Contacto
 
 📧 adrianfp2001@gmail.com
